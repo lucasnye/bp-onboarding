@@ -36,10 +36,10 @@ export default function App() {
 
           <Text style={styles.caption}>
             This past weekend, I taught at Mission Bit. I was working with a
-            group of 10 high school students who were building their first
-            web pages. They were all really eager to learn, and I'm glad I
-            signed up. Highly recommend to any other software engineers
-            interested in volunteering! Sign up here:
+            group of 10 high school students who were building their first web
+            pages. They were all really eager to learn, and I'm glad I signed
+            up. Highly recommend to any other software engineers interested in
+            volunteering! Sign up here:
             https://missionbit.org/get-involved/volunteer-with-us/
           </Text>
 
@@ -61,8 +61,8 @@ export default function App() {
             <View style={styles.commentBody}>
               <Text style={styles.commentText}>
                 <Text style={styles.bold}>eshab</Text> This non-profit
-                organization seems like a great place to volunteer at, I'll
-                be there!
+                organization seems like a great place to volunteer at, I'll be
+                there!
               </Text>
               <Text style={styles.commentLikes}>2 likes</Text>
             </View>
